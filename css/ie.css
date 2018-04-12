@@ -1,0 +1,96 @@
+.wrap{
+	width: 1200px;
+	margin: 0 auto;
+	overflow: hidden;
+}
+.serviceContainer .maincont{
+	overflow: hidden;
+	
+}
+.serviceContainer .maincont .itemCont{
+	width: 25%;
+	margin: 0;
+	float: left;
+}
+.briefContainer .wrap{
+	overflow: visible;
+}
+.briefContainer .image{
+	float: left;
+}
+.briefContainer .informationCont{
+	float: left;
+	margin-top: 128px;
+}
+.newContianer_index .listCont li:hover .articleCont{
+	display: block;
+	position: absolute;
+	top: 0;
+}
+.newContianer_index .listCont li:hover .articleCont .h1{
+	margin-top: 40px;
+	padding: 10px;
+}
+
+.footer.footer .cont1{
+	overflow: hidden;
+	text-align: center;
+}
+.footer.footer .cont1 .column{
+	display: inline-block;
+	text-align: left;
+}
+.newsContaienr .newsListContainer .list .box{
+	display: block;
+}
+.newsContaienr .newsListContainer .list .box .cover{
+	width: 270px;
+	float:left;
+	display: block;
+	border: none;
+}
+.newsContaienr .newsListContainer .list .box .content{
+	width: 890px;
+	float: left;	
+}
+.newsContaienr .newsListContainer .list .box .content .article{
+	height: 76px;
+	overflow: hidden;
+}
+.newsContaienr .newsListContainer .list .box .content .date{
+	margin-top: 40px;
+}
+.newsContaienr .newsListContainer .pagingCont{
+	display: block;
+}
+.newsContaienr .newsListContainer .pagingCont input,.newsContaienr .newsListContainer .pagingCont select{
+	display: block;
+	float: right;
+	color: #666;
+}
+.partnerContainer .list .item{
+	width: 380px;
+}
+.partnerContainer .list .item img{
+	display: block;
+	border: none;
+}
+.contackContainer .container{
+	display: block;
+	text-align: center;
+	overflow: hidden;
+	width: 100%;
+	height: 230px;
+}
+.contackContainer .container .textBox{
+	display: inline-block;
+	text-align: left;
+}
+.contackContainer .container img{
+	display: inline-block;
+}
+.joinCityContainer .list .item{
+	text-align: center;
+	line-height: 180px;
+}
+.joinvocationContainer .list li .btnBox{display: none;}
